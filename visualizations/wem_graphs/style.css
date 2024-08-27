@@ -1,0 +1,29 @@
+body {
+    font-family:  "Roboto Condensed", sans-serif;
+    line-height: 1.5;
+    font-size:  16px;
+    max-width: 1200px;
+    display:  block;
+    margin: 20px auto;
+}
+
+a:link {
+    color: #1a90a8;
+}
+
+a.thumb-link {
+    text-decoration: none;
+}
+
+img.thumb {
+    max-width: 350px;
+    border: 1px solid #1a90a8;
+}
+
+.img-container {
+    display: inline-block;
+}
+
+a figcaption {
+    color: #000;
+}
